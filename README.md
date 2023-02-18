@@ -1,4 +1,5 @@
-# APP 2: Password Generator app
+# App 2: Password Generator App
+> a.k.a ng2-password-generator-app
 
 Submodule repo for: [The modern angular bootcamp](https://github.com/Ifycode-study/modern-ng-bootcamp)
 
@@ -24,3 +25,4 @@ Follow the instruction to confirm in email. Then run:
 ````
 now
 ````
+Deplomyment URL ready!
